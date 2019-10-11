@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 /**
- * activity 测试
+ * activity 测试 lhf
  */
 public class MainActivity extends AppCompatActivity {
 
